@@ -9,7 +9,7 @@
 
 
 3. Neural Deepfake Detection with Factual Structure of Text<br>
-   论文地址：
+   论文地址：未找到
 
 
 4. Unsupervised Cross-Modal Analysis of Professional Monologue Discourse<br>
@@ -17,7 +17,6 @@
 
 
 
-
-5.Detecting fake news stories via multimodal analysis<br>
-  论文地址：https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24359（需要付费）
+5. Detecting fake news stories via multimodal analysis（需付费）<br>
+   论文地址：https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24359
    
