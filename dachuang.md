@@ -55,8 +55,11 @@
     
     
 
-11. BERT-Based Domain Adaptation Neural Network for Multi-Modal Fake News Detection.<br>
-    论文地址：
+**11. BERT-Based Domain Adaptation Neural Network for Multi-Modal Fake News *Detection.**<br>
+      论文地址：https://kdocs.cn/l/ssNqeLrYXuNi
+[金山文档] BDANN BERT-Based Domain Adaptation Neural.pdf
+
+   
 
 
 
