@@ -1,3 +1,7 @@
+
+**<font size=1 face="黑体">假新闻相关论文阅读记录</font>**
+
+
 **1. Detecting Cross-Modal Inconsistency to Defend Against Neural Fake New**<br>
    论文地址：https://arxiv.org/pdf/2009.07698.pdf
 
