@@ -3,22 +3,22 @@
 
 
 
-2. Where are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News.<br>
+**2. Where are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News.（*）**<br>
    论文地址：https://arxiv.org/pdf/2010.03159.pdf
 
 
 
-3. Neural Deepfake Detection with Factual Structure of Text<br>
+**3. Neural Deepfake Detection with Factual Structure of Text（*）**<br>
    论文地址：未找到
 
 
 
-4. Unsupervised Cross-Modal Analysis of Professional Monologue Discourse<br>
+**4. Unsupervised Cross-Modal Analysis of Professional Monologue Discourse（*）**<br>
    论文地址：<http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.47.3498&rep=rep1&type=pdf>
 
 
 
-5. Detecting fake news stories via multimodal analysis<br>
+**5. Detecting fake news stories via multimodal analysis（*）**<br>
    论文地址：https://kdocs.cn/l/spAE5EJ5Wi8Z
 [金山文档] asi.24359.pdf
   
