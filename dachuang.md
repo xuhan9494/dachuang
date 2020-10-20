@@ -7,7 +7,7 @@
 
 
 
-**2. Where are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News.（*）**<br>
+**2. Where are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News.**<br>
    论文地址：https://arxiv.org/pdf/2010.03159.pdf
 
 
@@ -22,8 +22,7 @@
 
 
 
-**5. Detecting fake news stories via multimodal analysis（*）**<br>
-   论文地址：https://kdocs.cn/l/spAE5EJ5Wi8Z
+**5. Detecting fake news stories via multimodal analysis**：https://kdocs.cn/l/spAE5EJ5Wi8Z
 [金山文档] asi.24359.pdf
   
   
