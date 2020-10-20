@@ -17,7 +17,7 @@
 
 
 
-**4. Unsupervised Cross-Modal Analysis of Professional Monologue Discourse（*）**<br>
+**4. Unsupervised Cross-Modal Analysis of Professional Monologue Discourse**<br>
    论文地址：<http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.47.3498&rep=rep1&type=pdf>
 
 
