@@ -62,6 +62,22 @@
       论文地址：https://kdocs.cn/l/ssNqeLrYXuNi
 [金山文档] BDANN BERT-Based Domain Adaptation Neural.pdf
 
+
+**12. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.（*）**<br>
+      论文地址：
+https://arxiv.org/pdf/2005.11401.pdf
+
+
+**13. REALM: Retrieval-Augmented Language Model Pre-Training（*）**<br>
+      论文地址：https://proceedings.icml.cc/static/paper_files/icml/2020/3102-Paper.pdf
+      
+
+**14. Transformer Reasoning Network for Image-Text Matching and Retrieval**<br>
+      论文地址：https://arxiv.org/pdf/2004.09144.pdf
+
+
+
+
    
 
 
