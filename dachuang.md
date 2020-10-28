@@ -74,6 +74,17 @@ https://arxiv.org/pdf/2005.11401.pdf
 
 **14. Transformer Reasoning Network for Image-Text Matching and Retrieval**<br>
       论文地址：https://arxiv.org/pdf/2004.09144.pdf
+      
+      
+      
+**15. 【CIKM2020-教程】仇恨言论假新闻检测，157页ppt（*）**<br>
+      论文地址：https://sites.google.com/view/harmful-inf-detect-cikm20tuto/slides
+      
+      
+      
+**16.CIKM2020最佳论文出炉！NUS《图表示假新闻检测》摘获！（*）**<br>
+      论文地址：https://kdocs.cn/l/sh86JEQJajiB
+[金山文档] 3340531.3412046.pdf
 
 
 
