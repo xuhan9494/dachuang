@@ -89,6 +89,29 @@ https://arxiv.org/pdf/2005.11401.pdf
 
 
 
+**17.A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning（*）**<br>
+      论文地址：https://openaccess.thecvf.com/content_CVPR_2020/html/Huynh_A_Shared_Multi-Attention_Framework_for_Multi-Label_Zero-Shot_Learning_CVPR_2020_paper.html
+      
+      
+      
+      
+      
+**18.BERT长文本处理-COGLTX【附代码】（*）**<br>
+      论文地址：https://zhuanlan.zhihu.com/p/304764328?utm_source=qq
+      
+      
+      
+      
+            
+**19.A Stacked Cross Attention for Image-Text Matching（*）**<br>
+      论文地址：https://openaccess.thecvf.com/content_ECCV_2018/html/Kuang-Huei_Lee_Stacked_Cross_Attention_ECCV_2018_paper.html
+      
+      
+      
+
+
+
+
    
 
 
